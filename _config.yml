@@ -3,7 +3,7 @@ description:      site.description
 # disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-# url:              //bashuk.github.io/blog
+url:              /site
 
 # Owner/author information
 owner:
