@@ -1,20 +1,22 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
-disqus_shortname: hpstrtheme
+title:            Alex Bashuk's blog
+description:      site.description
+# disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              //bashuk.github.io/hpstr-jekyll-theme
+# url:              //bashuk.github.io/blog
 
 # Owner/author information
 owner:
   name:           Alex Bashuk
-  avatar:         avatar.jpg
-  bio:            "Just another student."
+  avatar:         author.jpg
+  bio:            "There's no way you've found this blog unless you know me, right?"
   email:          alex@bashuk.tk
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        a_bashuk
+  twitter:        
   facebook:       bashuk
-  github:         bashuk
+  vk:             a.bashuk
+  skype:          a.bashuk
+  github:         
   stackexchange:  
   linkedin:       
   instagram:        
