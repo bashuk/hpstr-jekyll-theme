@@ -1,15 +1,19 @@
+# Blog customization
 title:            Alex Bashuk's blog
 description:      Alex Bashuk's personal blog
 reading_time:     true
 words_per_minute: 200
 url:              
 baseurl:          /blog
+background:
+permalink:        /:categories/:title/
+paginate:         5
 
 # Owner/author information
 owner:
   name:           Alex Bashuk
   avatar:         author.jpg
-  bio:            "There's no way you've found this blog unless you know me, right?"
+  bio:            "There's no way you found this blog unless you know me, right?"
   email:          alex@bashuk.tk
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -24,9 +28,6 @@ owner:
   tumblr:         
   google_plus:    
 
-# Background image to be tiled on all pages
-background:
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Kiev
 future:      true
@@ -37,11 +38,6 @@ gems:
 sass:
   sass_dir: _sass
   style: compressed
-
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
 
 kramdown:
   auto_ids: true
