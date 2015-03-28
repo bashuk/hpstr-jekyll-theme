@@ -4,6 +4,7 @@ description:      site.description
 reading_time:     true
 words_per_minute: 200
 url:              
+baseurl:          /blog
 
 # Owner/author information
 owner:
