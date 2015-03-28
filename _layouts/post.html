@@ -9,7 +9,6 @@
 
 <body id="post" {% if page.image.feature %}class="feature"{% endif %}>
 
-{% include browser-upgrade.html %}
 {% include navigation.html %}
 
 {% if page.image.feature %}
@@ -49,8 +48,6 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-    {% if site.related_posts.size %}{% include read-more.html %}{% endif %}
   </article>
 </div><!-- /#main -->
 

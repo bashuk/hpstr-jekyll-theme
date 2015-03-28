@@ -3,7 +3,7 @@ description:      site.description
 # disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              /blog
+url:              
 
 # Owner/author information
 owner:
