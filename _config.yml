@@ -3,7 +3,7 @@ title:            Alex Bashuk's blog
 description:      Alex Bashuk's personal blog
 reading_time:     true
 words_per_minute: 200
-url:              
+url:              http://blog.bashuk.tk
 baseurl:          
 background:
 permalink:        /:categories/:title/
