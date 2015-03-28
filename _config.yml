@@ -4,7 +4,7 @@ description:      Alex Bashuk's personal blog
 reading_time:     true
 words_per_minute: 200
 url:              
-baseurl:          /blog
+baseurl:          
 background:
 permalink:        /:categories/:title/
 paginate:         5
