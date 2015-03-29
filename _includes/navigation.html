@@ -16,45 +16,45 @@
 			<a href="#">About</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
-					<h4>{{ site.owner.name }}</h4>
-					<p>{{ site.owner.bio }}</p>
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.data.owner.avatar }}" alt="{{ site.data.owner.name }} photo" class="author-photo">
+					<h4>{{ site.data.owner.name }}</h4>
+					<p>{{ site.data.owner.bio }}</p>
 				</li>
-				{% if site.owner.email %}<li>
-					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
+				{% if site.data.owner.email %}<li>
+					<a href="mailto:{{ site.data.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
 				</li>{% endif %}
-				{% if site.owner.skype %}<li>
-					<a href="skype:{{ site.owner.skype }}"><i class="fa fa-fw fa-skype"></i> Skype</a>
+				{% if site.data.owner.skype %}<li>
+					<a href="skype:{{ site.data.owner.skype }}"><i class="fa fa-fw fa-skype"></i> Skype</a>
 				</li>{% endif %}
-				{% if site.owner.twitter %}<li>
-					<a href="http://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
+				{% if site.data.owner.twitter %}<li>
+					<a href="http://twitter.com/{{ site.data.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
-				{% if site.owner.facebook %}<li>
-					<a href="http://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
+				{% if site.data.owner.facebook %}<li>
+					<a href="http://facebook.com/{{ site.data.owner.facebook }}"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
 				</li>{% endif %}
-				{% if site.owner.vk %}<li>
-					<a href="http://vk.com/{{ site.owner.vk }}"><i class="fa fa-fw fa-vk"></i> VK</a>
+				{% if site.data.owner.vk %}<li>
+					<a href="http://vk.com/{{ site.data.owner.vk }}"><i class="fa fa-fw fa-vk"></i> VK</a>
 				</li>{% endif %}
-				{% if site.owner.google_plus %}<li>
-					<a href="https://google.com/{{ site.owner.google_plus }}"><i class="fa fa-fw fa-google-plus"></i> Google+</a>
+				{% if site.data.owner.google_plus %}<li>
+					<a href="https://google.com/{{ site.data.owner.google_plus }}"><i class="fa fa-fw fa-google-plus"></i> Google+</a>
 				</li>{% endif %}
-				{% if site.owner.linkedin %}<li>
-					<a href="http://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>
+				{% if site.data.owner.linkedin %}<li>
+					<a href="http://linkedin.com/in/{{ site.data.owner.linkedin }}"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>
 				</li>{% endif %}
-				{% if site.owner.github %}<li>
-					<a href="http://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				{% if site.data.owner.github %}<li>
+					<a href="http://github.com/{{ site.data.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
 				</li>{% endif %}
-				{% if site.owner.stackexchange %}<li>
-					<a href="{{ site.owner.stackexchange }}"><i class="fa fa-fw fa-stack-exchange"></i> Stackexchange</a>
+				{% if site.data.owner.stackexchange %}<li>
+					<a href="{{ site.data.owner.stackexchange }}"><i class="fa fa-fw fa-stack-exchange"></i> Stackexchange</a>
 				</li>{% endif %}
-				{% if site.owner.instagram %}<li>
-					<a href="http://instagram.com/{{ site.owner.instagram }}"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+				{% if site.data.owner.instagram %}<li>
+					<a href="http://instagram.com/{{ site.data.owner.instagram }}"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
 				</li>{% endif %}
-				{% if site.owner.flickr %}<li>
-					<a href="http://www.flickr.com/photos/{{ site.owner.flickr }}"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
+				{% if site.data.owner.flickr %}<li>
+					<a href="http://www.flickr.com/photos/{{ site.data.owner.flickr }}"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
 				</li>{% endif %}
-				{% if site.owner.tumblr %}<li>
-					<a href="http://{{ site.owner.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr"></i> Tumblr</a>
+				{% if site.data.owner.tumblr %}<li>
+					<a href="http://{{ site.data.owner.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr"></i> Tumblr</a>
 				</li>{% endif %}
 			</ul><!-- /.dl-submenu -->
 		</li>

@@ -9,25 +9,6 @@ background:
 permalink:        /:categories/:title/
 paginate:         5
 
-# Owner/author information
-owner:
-  name:           Alex Bashuk
-  avatar:         author.jpg
-  bio:            "There's no way you found this blog unless you know me, right?"
-  email:          alex@bashuk.tk
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       bashuk
-  vk:             a.bashuk
-  skype:          
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:        
-  flickr:         
-  tumblr:         
-  google_plus:    
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Kiev
 future:      true
