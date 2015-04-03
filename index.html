@@ -13,7 +13,13 @@ image:
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
-        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+          {% if post.image.feature contains 'http://' or post.image.feature contains 'https://' %}
+            <img src="{{ post.image.feature }}" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.feature }}" alt="{{ post.title }}">
+          {% endif %}
+        </a>
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
