@@ -1,9 +1,9 @@
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
-		<li><a href="{{ site.siteurl }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.siteurl }}{{ site.baseurl }}/posts/">All Posts</a></li>
-		<li><a href="{{ site.siteurl }}{{ site.baseurl }}/tags/">All Tags</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}/posts/">All Posts</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}/tags/">All Tags</a></li>
 		{% for link in site.data.navigation %}
 	      {% if link.url contains 'http' %}
 	          {% assign domain = '' %}
@@ -16,7 +16,7 @@
 			<a href="#">Contacts</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.siteurl }}{{ site.baseurl }}/assets/images/{{ site.data.owner.avatar }}" alt="{{ site.data.owner.name }} photo" class="author-photo">
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.data.owner.avatar }}" alt="{{ site.data.owner.name }} photo" class="author-photo">
 					<h4>{{ site.data.owner.name }}</h4>
 					<p>{{ site.data.owner.bio }}</p>
 				</li>

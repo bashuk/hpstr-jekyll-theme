@@ -18,7 +18,7 @@
     {% if page.image.feature contains 'http://' or page.image.feature contains 'https://' %}
       <img src="{{ page.image.feature }}" alt="{{ page.title }}">
     {% else %}
-      <img src="{{ site.siteurl }}{{ site.baseurl }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
     {% endif %}
   </div><!-- /.entry-image -->
 </div><!-- /.entry-header -->
