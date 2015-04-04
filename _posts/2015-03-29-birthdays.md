@@ -8,3 +8,12 @@ image:
 
 # Заголовок
 Певний текст.
+
+Тут буде ще трохи тексту.
+
+{% capture images %}
+	/images/abstract-10.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=2 %}
+
+А потім ще деякий текст.
