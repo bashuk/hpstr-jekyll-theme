@@ -1,8 +1,9 @@
 # Owner/author information
 name:           Alex Bashuk
 avatar:         author.jpg
-bio:            "There's no way you found this blog unless you know me, right?"
+# bio:            "There's no way you found this blog unless you know me, right?"
 email:          alex@bashuk.tk
+
 # Social networking links used in footer. Update and remove as you like.
 twitter:        
 facebook:       bashuk
