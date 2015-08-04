@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-tags: []
+title: First post ever!
+tags: [test]
 categories: []
 image:
   #background:
@@ -12,4 +12,6 @@ image:
 #modified: YYYY-MM-DD
 ---
 
-Filename: YYYY-MM-DD-title.md
+This is a very first post on my blog.
+
+This post doesn't have anything interesting to read.
