@@ -12,4 +12,3 @@ image:
 #modified: YYYY-MM-DD
 ---
 
-Filename: YYYY-MM-DD-title.md
