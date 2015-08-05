@@ -1,1 +1,6 @@
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.data.owner.name }}</span>
+<span>&copy; 
+    {{ site.time | date: '%Y' }} 
+    <a href="mailto:{{ site.data.owner.email }}" target="_blank">
+        {{ site.data.owner.name }}
+    </a>
+</span>
