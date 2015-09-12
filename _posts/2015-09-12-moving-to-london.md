@@ -1,11 +1,11 @@
 ---
 layout: post
-title:
+title: Про переїзд
 tags: [london]
 categories: [london]
 image:
   #background:
-  feature: london/.png
+  feature: london/2.png
   #credit:
   #creditlink:
 #link:
