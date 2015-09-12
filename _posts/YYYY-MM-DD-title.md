@@ -5,7 +5,7 @@ tags: [london]
 categories: [london]
 image:
   #background:
-  feature: london/.png
+  #feature: london/
   #credit:
   #creditlink:
 #link:
