@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Про блог
-tags: [london, q&a]
+tags: [London, Q&A]
 categories: [london]
 image:
   #background:
