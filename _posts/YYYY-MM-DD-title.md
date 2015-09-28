@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-tags: [london]
+tags: [London]
 categories: [london]
 image:
   #background:
