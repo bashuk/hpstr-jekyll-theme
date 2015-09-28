@@ -93,9 +93,11 @@ modified: 2015-09-27
 
 А ще я зробив декілька таймлапсів:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ImKYozT5RLM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImKYozT5RLM" frameborder="0" allowfullscreen> </iframe>
+
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qLqX7vEVIBI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qLqX7vEVIBI" frameborder="0" allowfullscreen> </iframe>
 
 > И это все без опыта или есть и постарше чуваки?
 ---
