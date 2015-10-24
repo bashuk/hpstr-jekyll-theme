@@ -3,14 +3,14 @@ title:            Alex Bashuk's blog
 description:      Alex Bashuk's personal blog
 reading_time:     true
 words_per_minute: 200
-url:              http://blog.bashuk.tk
+# url:              http://blog.bashuk.tk
 baseurl:
 background:
 permalink:        /:categories/:title/
 paginate:         5
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Kiev
+timezone:    Europe/London
 future:      true
 highlighter: pygments
 markdown:    kramdown
