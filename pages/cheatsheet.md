@@ -3,9 +3,9 @@ layout: page
 title: HPSTR cheatsheet
 image:
   #background:
-  #feature: 
-  #credit: 
-  #creditlink: 
+  #feature:
+  #credit:
+  #creditlink:
 permalink: /cs/
 ---
 
@@ -14,17 +14,17 @@ permalink: /cs/
 
 ## Images
 
-{% capture images %} 
+{% capture images %}
     http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png     
     https://upload.wikimedia.org/wikipedia/commons/5/5f/Utah_teapot_simple_2.png
-    /images/PM5544_with_non-PAL_signals.png
+    /images/cheatsheet/1.png
 {% endcapture %} {% include gallery images=images caption="Test images" cols=3 %}
 
 Code:
 
 {% highlight jinja %}
 {% raw %}
-{% capture images %} 
+{% capture images %}
     http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png     
     https://upload.wikimedia.org/wikipedia/commons/5/5f/Utah_teapot_simple_2.png
     /images/PM5544_with_non-PAL_signals.png
@@ -34,15 +34,15 @@ Code:
 
 ## Videos
 
-<iframe width="560" height="315" 
-src="//www.youtube.com/embed/C0DPdy98e4c" 
+<iframe width="560" height="315"
+src="//www.youtube.com/embed/C0DPdy98e4c"
 frameborder="0"> </iframe>
 
 Code:
 
 {% highlight html %}
-<iframe width="560" height="315" 
-src="//www.youtube.com/embed/C0DPdy98e4c" 
+<iframe width="560" height="315"
+src="//www.youtube.com/embed/C0DPdy98e4c"
 frameborder="0"> </iframe>
 {% endhighlight %}
 

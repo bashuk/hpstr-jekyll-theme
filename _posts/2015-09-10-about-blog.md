@@ -5,7 +5,7 @@ tags: [London, Q&A]
 categories: [london]
 image:
   #background:
-  feature: london/3.jpg
+  feature: 2015-09-10-about-blog/1.jpg
   credit: genesing.ch
   creditlink: http://genesing.ch/gallery/questions-and-answers-signpost/
 #link:
