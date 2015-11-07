@@ -5,7 +5,7 @@ tags: [London, Transport]
 categories: [london]
 image:
   #background:
-  feature: 2015-10-24-transport/0.png
+  feature: 2015-11-07-transport/0.png
   #credit:
   #creditlink:
 #link:
@@ -307,7 +307,7 @@ Northern](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Northern_Lin
 
 _Шматок карти на станції метро._
 
-![Metro map](/images/2015-10-24-transport/2.gif)
+![Metro map](/images/2015-11-07-transport/2.gif)
 
 _Схема лондонського метро._
 
@@ -351,7 +351,7 @@ _Мер Лондона їде на роботу._
 і його всі будуть боятись та поважати, бо він – велика шишка, або просто бізнесмен-мільйонер.
 Але зараз він маслає, він крутить педалі разом з усіма.
 
-![Cyclists](/images/2015-10-24-transport/1.jpg)
+![Cyclists](/images/2015-11-07-transport/1.jpg)
 
 _Через велику кількість велосипедистів на дорогах та вузькі вулиці, у центрі
 швидкість автомобілів та автобусів падає до швидкості велосипедиста._
