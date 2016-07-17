@@ -107,7 +107,7 @@ _Центр міста. Зони 1-3._
 Oyster – універсальний проїзний TFL. Це звичайна пластикова картка, яка відкриває
 дуже класні можливості.
 
-![Oyster card](http://www.otmcreate.com/sites/default/files/work_tfl_02.jpg)
+![Oyster card](http://cdn.londonandpartners.com/visit/general-london/transport/70372-640x360-visitoroyster640.jpg)
 
 _Пафосна картинка, що натякає: Oyster – єдина картка для усіх видів транспорту._
 
