@@ -45,7 +45,7 @@ _Бітли, які не квапляться переходити дорогу 
 
 ![Look left](http://cdn.c.photoshelter.com/img-get2/I0000jJhBGs8V0ME/fit=1000x750/look-left-traffic-crossing-and-fast-car-arundel-street-london-g273100410.jpg)
 
-_Інколи на дорогах можна зустріти "Look both ways" та навіть "Look right" – на дорогах
+_Інколи на дорогах можна зустріти "Look both ways" та навіть "Look left" – на дорогах
 з одностороннім рухом._
 
 
