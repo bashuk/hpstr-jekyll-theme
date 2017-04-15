@@ -3,7 +3,7 @@ title:            Alex Bashuk's blog
 description:      Блог про життя та роботу у Лондоні
 reading_time:     true
 words_per_minute: 200
-url:              http://blog.bashuk.tk
+url:              http://alexbash.uk
 baseurl:
 background:
 permalink:        /:categories/:title/
